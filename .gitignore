@@ -1,0 +1,8 @@
+# Build output
+target/
+
+# Game logs
+logs/
+
+# Local tooling artifacts
+.github/modernize/
